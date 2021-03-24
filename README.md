@@ -40,10 +40,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![v1.gif](https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv1.gif)
-![v2.gif](https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv2.gif)
-![v3.gif](https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv3.gif)
-![v4.gif](https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv4.gif)
+![v1](https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv1.gif)
+![v2](https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv2.gif)
+![v3](https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv3.gif)
+![v4](https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv4.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
