@@ -1,0 +1,120 @@
+/* CSS files add styling rules to your content */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica&display=swap');
+
+body {
+  font-family: 'IM Fell DW Pica', serif;
+  margin: 2em;
+  background-image: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%206.jpg?v=1616543892837");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position: top center;
+  color: #fffcf7;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  color: #fffcf7;
+  font-family: 'IM Fell DW Pica SC', serif;
+  text-align: center;
+}
+
+button {
+  padding:10px;
+  border-radius: 10px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+  border-radius: 80px;
+  cursor: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%207.png?v=1616548171463"), auto;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position: top center;
+}
+
+.hidden {
+  display: none;
+}
+
+#timer{
+  background-color: #102547;
+  border-style: solid;
+  border-color: #3c4882;
+  margin-left: 8rem;
+  margin-right: 8rem;
+  font-size: 20px;
+}
+
+#startBtn{
+  background-color: #fffcf7
+}
+
+#stopBtn{
+  background-color: #fffcf7
+}
+
+#button1 {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%206.png?v=1616543868954");
+  background-color: #e1e3a9;
+}
+
+#button1:active, #button1.lit {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%206.png?v=1616543868954");
+  background-position: center center;
+  background-color: #bbbe64;
+}
+
+#button2 {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%205.png?v=1616543874299");
+  background-color: #fff7ae;
+}
+
+#button2:active, #button2.lit {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%205.png?v=1616543874299");
+  background-position: center center;
+  background-color: #d2bf55;
+}
+
+#button3 {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%204.png?v=1616543878387");
+  background-color: #dcb8cb;
+}
+
+#button3:active, #button3.lit {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%204.png?v=1616543878387");
+  background-position: center center;
+  background-color: #8a6c99;
+}
+
+#button4 {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%203.png?v=1616543885142");
+  background-color: #a1b5d8;
+}
+
+#button4:active, #button4.lit {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%203.png?v=1616543885142");
+  background-position: center center;
+  background-color: #3e5c76;
+}
+
+#button5 {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%202.png?v=1616543887432");
+  background-color: #ccbabe;
+}
+
+#button5:active, #button5.lit {
+  background: url("https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2FUntitled_Artwork%202.png?v=1616543887432");
+  background-position: center center;
+  background-color: #7a6268;
+}
+
+footer {
+  font-family: 'IM Fell DW Pica', serif;
+  text-align: center;
+  color: #fffcf7;
+  font-size: 10px;
+}
