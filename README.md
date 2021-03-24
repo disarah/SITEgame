@@ -40,6 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![v1](/gifs/v1.gif)
 ![v2](/gifs/v2.gif)
 ![v3](/gifs/v3.gif)
