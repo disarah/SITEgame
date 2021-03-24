@@ -43,7 +43,8 @@ Here's a walkthrough of implemented user stories:
 ![https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv1.gif?v=1616563755967](v1.gif)
 ![https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv2.gif?v=1616563764854](v2.gif)
 ![https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv3.gif?v=1616563740922](v3.gif)
-![https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv4.gif?v=1616563737195](v4.gif)
+![https://cdn.glitch.com/d9ae85a7-3194-44b3-ae40-28699aeea133%2Fv4.gif](v4.gif)
+
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
